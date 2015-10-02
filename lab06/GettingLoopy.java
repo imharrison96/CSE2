@@ -5,6 +5,8 @@ import java.util.Random;//import math random
 	/* this program would print out 1 to 7 and multiple times of 7.
  	then it would also print out all of the prime number from 10-100
 	 finally it would print out between 5-200 smile faces.
+	 
+	 Haocheng Yin, Oct 2nd 2015, Lab06
 	 */
 
 
