@@ -116,7 +116,7 @@ public class GettingLoopy {
 		Random gen = new Random();//create random number generator
 		int print=	gen.nextInt(201)+5;//declare a random number
 			
-		for(int o=1;o<print;o++)
+		for(int o=1;o<print;o++)//make a count to print the face for the random generated times
 		{  
 			System.out.print("ツ");
 			if(o%20==0)//print only 20 faces on a line
